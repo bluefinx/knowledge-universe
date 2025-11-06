@@ -18,11 +18,10 @@ All modern Windows Servers come with a **modern Windows UI** based on Windows 10
 
 ---
 
-> **References**
+> [!NOTE]
 >
 > 1. Medium (Kevin Finnerty): [History of Windows Server Operating Systems](https://medium.com/@Kevin_Finnerty_Gabagool/navigating-through-time-the-history-of-windows-server-operating-systems-a4b3cab42b5e)  
 > 2. Microsoft: [Windows Server release information](https://learn.microsoft.com/en-gb/windows/release-health/windows-server-release-info)
 > 3. Microsoft: [Comparison of Windows Server editions](https://learn.microsoft.com/en-us/windows-server/get-started/editions-comparison?pivots=windows-server-2025)
 > 4. TheTechyLife (John Elmore): [Unveiling The Most Widely Used Windows Server](https://thetechylife.com/which-windows-server-is-most-used/?utm_source=chatgpt.com)
 >
-> ---

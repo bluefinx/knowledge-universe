@@ -22,10 +22,9 @@ Since 2001, Windows has been based solely on *Windows OS*, starting with *Window
 
 ---
 
-> **References**
+> [!NOTE]
 >
 > 1. The Windows Club: [History of Windows](https://www.thewindowsclub.com/history-of-windows)  
 > 2. NextTechWorld: [Windows Evolution 1985–2025](https://nexttechworld.com/os/windows-evolution-1985-2025/)
 > 3. TryHackMe: [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 >
-> ---
