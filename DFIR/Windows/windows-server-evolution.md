@@ -2,19 +2,19 @@
 
 ![windows-evolution](./../../resources/windows-server-evolution.jpg)
 
-The first Windows Server was released in 1993, already based on a <u>NT-Kernel</u>. With <u>Windows 2000 Server</u>, **Active Directory** was introduced and <u>Windows Server 2008</u> introduced **virtualisation** and **cloud computing**. 
+The first Windows Server was released in 1993, already based on a *NT-Kernel*. With *Windows 2000 Server*, **Active Directory** was introduced and *Windows Server 2008* introduced **virtualisation** and **cloud computing**. 
 
 All modern Windows Servers come with a **modern Windows UI** based on Windows 10 or 11. Currently, Windows Server 2012 and 2016 are the most popular versions.
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
-
+<br>
 
 ---
 

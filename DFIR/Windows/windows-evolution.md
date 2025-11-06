@@ -2,23 +2,23 @@
 
 ![windows-evolution](./../../resources/windows-evolution.jpg)
 
-Windows started out in 1985 as frontend for <u>MS-DOS</u>. Several versions of Windows followed and in 1993, a new version operating system for Windows was introduced based on a <u>NT-Kernel</u>, completely independent from MS-DOS.
+Windows started out in 1985 as frontend for *MS-DOS*. Several versions of Windows followed and in 1993, a new version operating system for Windows was introduced based on a *NT-Kernel*, completely independent from MS-DOS.
 
 > [!NOTE]
 >
 > MS-DOS = Microsoft Disk Operating System
 
-Since 2001, Windows has been based solely on <u>Windows OS</u>, starting with <u>Windows XP</u>, which was a huge success. Next came <u>Windows Vista</u>, which was unpopular and had performance issues. Similarly, <u>Windows 7</u> and <u>Windows 8</u> were quickly discontinued until <u>Windows 10</u> and <u>Windows 11</u>, which are available as **Home** and **Pro** versions.
+Since 2001, Windows has been based solely on *Windows OS*, starting with *Windows XP*, which was a huge success. Next came *Windows Vista*, which was unpopular and had performance issues. Similarly, *Windows 7* and *Windows* 8 were quickly discontinued until *Windows 10* and *Windows 11*, which are available as **Home** and **Pro** versions.
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
-
+<br>
 
 ---
 
